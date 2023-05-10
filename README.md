@@ -17,7 +17,7 @@ java Connect4
 
 ## Python Implementation
 
-The Python implementation of the game is in the `python` directory. It consists of two files:
+The Python implementation of the game is in the `python` directory.
 
 - `Connect4Game.py`: contains the game logic
 
